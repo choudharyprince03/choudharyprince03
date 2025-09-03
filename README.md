@@ -1,41 +1,23 @@
 <h1 align="center">👋 Hi, I'm Prince Choudhary</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Full Stack Developer • AI/ML Enthusiast • Builder</h3>
 
 
-- Building **FoodZero**
-- Learning **MERN Stack**
-- 💬 Ask me about **React, C++**
-- 📫 Reach me: **prince.1978choudhary@gmail.com**
-- 📄 [View My Resume](https://docs.google.com/document/d/1Oj5ZJtDJE5OMKnYU5Yi9fKWF28IQPwBXvi39PnCtcOc/edit?usp=sharing)
-
-
+## ⚡ Tech Stack
 <p align="center">
-  <img src="https://img.icons8.com/color/96/html-5--v1.png" alt="html5"/>
-  <img src="https://img.icons8.com/color/96/css3.png" alt="css3"/>
-  <img src="https://img.icons8.com/color/96/javascript.png" alt="javascript"/>
-  <img src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
-  <img src="https://img.icons8.com/color/96/nodejs.png" alt="nodejs"/>
-  <img src="https://img.icons8.com/color/96/mongodb.png" alt="mongodb"/>
-  <img src="https://img.icons8.com/fluency/96/mysql-logo.png" alt="mysql"/>
-  <img src="https://img.icons8.com/color/96/python.png" alt="python"/>
-  <img src="https://img.icons8.com/color/96/c-plus-plus-logo.png" alt="cplusplus"/>
-  <img src="https://img.icons8.com/color/96/tailwindcss.png" alt="tailwind"/>
-  <img src="https://img.icons8.com/color/96/tensorflow.png" alt="tensorflow"/>
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/100/external-pandas-data-science-soft-fill-soft-fill-juicy-fish.png" alt="pandas"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-scikit-learn-a-free-software-machine-learning-library-for-the-python-programming-language-logo-color-tal-revivo.png" alt="scikit_learn"/>
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?theme=glass&lineCount=2&line1=html5,html,FF5733;css3,css,2965f1;javascript,js,F7DF1E;react,react,61DBFB;node.js,node.js,3C873A&line2=mongodb,mongodb,4DB33D;python,python,3776AB;c++,c++,00599C;tailwindcss,tailwind,38BDF8" alt="tech stack" />
 </p>
 
-## 🌐 Connect with Me
+
+
+## 🌐 Connect
 <p align="center">
   <a href="mailto:prince.1978choudhary@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Glass?style=for-the-badge&logo=gmail&logoColor=white&color=transparent&labelColor=0d1117" />
   </a>
   <a href="https://www.linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Glass?style=for-the-badge&logo=linkedin&logoColor=white&color=transparent&labelColor=0d1117" />
   </a>
   <a href="https://github.com/princechoudhary" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Glass?style=for-the-badge&logo=github&logoColor=white&color=transparent&labelColor=0d1117" />
   </a>
 </p>
-
-
