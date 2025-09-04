@@ -14,10 +14,10 @@
   <a href="mailto:prince.1978choudhary@gmail.com">
     <img src="https://img.shields.io/badge/Email-Glass?style=for-the-badge&logo=gmail&logoColor=white&color=transparent&labelColor=0d1117" />
   </a>
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+  <a href="[https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/prince-choudhary-18b803293/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Glass?style=for-the-badge&logo=linkedin&logoColor=white&color=transparent&labelColor=0d1117" />
   </a>
-  <a href="https://github.com/princechoudhary" target="_blank">
+  <a href="[https://github.com/princechoudhary](https://github.com/choudharyprince03)" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Glass?style=for-the-badge&logo=github&logoColor=white&color=transparent&labelColor=0d1117" />
   </a>
 </p>
