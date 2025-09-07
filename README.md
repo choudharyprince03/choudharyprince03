@@ -9,8 +9,9 @@
 
 ## ⚡ Tech Stack
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?theme=glass&lineCount=2&line1=html5,html,FF5733;css3,css,2965f1;javascript,js,F7DF1E;react,react,61DBFB;node.js,node.js,3C873A&line2=mongodb,mongodb,4DB33D;python,python,3776AB;c++,c++,00599C;tailwindcss,tailwind,38BDF8" alt="tech stack"/>
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?theme=glass&lineCount=2&line1=html5,html,FF5733;css3,css,2965f1;javascript,js,F7DF1E;react,react,61DBFB;node.js,node.js,3C873A&line2=mongodb,mongodb,4DB33D;python,python,3776AB;c%2B%2B,c%2B%2B,00599C;tailwindcss,tailwind,38BDF8" alt="tech stack"/>
 </p>
+
 
 ---
 
